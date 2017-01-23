@@ -1,2 +1,5 @@
 # hello-world
-second repo, try only
+second repo, VIRTUE
+
+am I alive?
+what is intelligence?
